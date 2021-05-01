@@ -11,10 +11,6 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![./images/screenshot.jpg]
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -30,6 +26,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@GeorgeAlexXenos
-  ](https://www.frontendmentor.io/profile/GeorgeAlexXenos)
+- Frontend Mentor - [@GeorgeAlexXenos](https://www.frontendmentor.io/profile/GeorgeAlexXenos)
