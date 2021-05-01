@@ -5,6 +5,7 @@
 }
 
 body {
+  padding-top: 55px;
   max-width: 100vw;
   min-height: 100vh;
   color: white;
@@ -165,6 +166,7 @@ p {
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 100%;
+    padding: 0;
   }
 
   h1 {
