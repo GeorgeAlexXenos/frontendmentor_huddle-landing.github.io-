@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GeorgeAlexXenos/frontendmentor_huddle-landing.github.io-)
-- Live Site URL: [Add live site URL here](https://georgealexxenos.github.io/frontendmentor_huddle-landing.github.io-/)
+- Solution URL: [solution URL here](https://github.com/GeorgeAlexXenos/frontendmentor_huddle-landing.github.io-)
+- Live Site URL: [live site URL here](https://georgealexxenos.github.io/frontendmentor_huddle-landing.github.io-/)
 
 ## My process
 
